@@ -410,3 +410,50 @@ background:#5c6c4d;
 transform:translateY(-2px);
 
 }
+.countdown{
+
+display:flex;
+
+justify-content:center;
+
+gap:20px;
+
+flex-wrap:wrap;
+
+margin-top:40px;
+
+}
+
+.time-box{
+
+background:white;
+
+padding:25px;
+
+width:140px;
+
+border-radius:20px;
+
+box-shadow:0 10px 25px rgba(0,0,0,.08);
+
+}
+
+.time-box span{
+
+display:block;
+
+font-size:48px;
+
+font-family:"Cormorant Garamond",serif;
+
+color:#6e7a61;
+
+}
+
+.time-box p{
+
+margin-top:10px;
+
+font-size:16px;
+
+}
