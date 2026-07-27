@@ -381,3 +381,32 @@ h1{
 }
 
 }
+.button{
+
+display:inline-block;
+
+margin-top:25px;
+
+padding:16px 36px;
+
+background:#70815d;
+
+color:white;
+
+border-radius:35px;
+
+text-decoration:none;
+
+font-size:18px;
+
+transition:.3s;
+
+}
+
+.button:hover{
+
+background:#5c6c4d;
+
+transform:translateY(-2px);
+
+}
